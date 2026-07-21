@@ -1,0 +1,8 @@
+﻿From: security@paypa1-support.com
+Reply-To: collect@totally-different.ru
+Subject: Urgent: Your account will be suspended
+To: victim@example.com
+
+Dear customer, we detected unusual activity. Verify immediately or your
+account will be closed. Confirm your password here:
+http://192.168.44.10/verify-account-now
